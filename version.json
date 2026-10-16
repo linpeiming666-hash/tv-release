@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "2.9.36",
+  "versionCode": 52,
+  "versionName": "2.9.38",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.0/cloud-tv-native.apk",
-  "changelog": "潮汕频道全部换源：删除全部失效源，新增5个实测可用频道（1080P高清）：汕头综合、汕头经济生活、潮州综合、潮州民生、揭阳综合"
+  "updateMessage": "潮汕频道换源优化，新增揭阳公共频道"
 }
