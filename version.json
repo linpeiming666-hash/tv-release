@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
+  "versionCode": 56,
   "versionName": "2.9.39",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.0/cloud-tv-native.apk",
   "updateMessage": "新增饶平台频道；潮汕频道全部换源（30秒实测稳定）",
-  "changelog": "自动测试：确认删除 1 个无效频道"
+  "changelog": "自动测试：恢复 2 个频道"
 }
