@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "2.9.44",
+  "versionCode": 60,
+  "versionName": "2.9.45",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.0/cloud-tv-native.apk",
-  "updateMessage": "新增11个稳定清晰频道(含少儿/体育/卫视/央视付费)",
-  "changelog": "新增11个稳定清晰频道(30秒验证):卡酷少儿/五星体育/厦门/海南/河北/兵团卫视/哈哈炫动/嘉佳卡通/CCTV卫生健康/文化精品/电视指南"
+  "updateMessage": "删除潮汕频道(卡顿)+嘉佳卡通+五星体育(广告)",
+  "changelog": "删除潮汕频道(卡顿)+嘉佳卡通+五星体育(广告)"
 }
