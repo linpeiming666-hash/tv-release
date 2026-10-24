@@ -1,7 +1,7 @@
 {
   "versionCode": 63,
   "versionName": "2.9.48",
-  "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.0/cloud-tv-native.apk",
+  "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
   "updateMessage": "全部CCTV频道直播源更新;18个央视频道源全部替换",
   "changelog": "全部CCTV频道(CCTV-1~17+CCTV-5+)直播源从kimwang仓库重新筛选替换;每个频道保留4个最佳备用源"
 }
