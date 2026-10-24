@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "2.9.45",
+  "versionCode": 61,
+  "versionName": "2.9.46",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.0/cloud-tv-native.apk",
-  "updateMessage": "删除潮汕频道(卡顿)+嘉佳卡通+五星体育(广告)",
-  "changelog": "删除潮汕频道(卡顿)+嘉佳卡通+五星体育(广告)"
+  "updateMessage": "删除央视付费广告频道(台球/音乐/女性/足球/兵器/卫生/文化/指南)",
+  "changelog": "央视付费只保留风云剧场/怀旧剧场/第一剧场,删除8个广告频道"
 }
