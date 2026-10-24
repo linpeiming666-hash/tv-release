@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "2.9.41",
+  "versionCode": 57,
+  "versionName": "2.9.42",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.0/cloud-tv-native.apk",
-  "updateMessage": "删除失效潮汕频道",
-  "changelog": "删除失效潮汕频道"
+  "updateMessage": "重新加入潮汕频道(汕头/潮州/揭阳/潮安/普宁,多线路)",
+  "changelog": "重新加入潮汕频道(9个频道,多线路)"
 }
