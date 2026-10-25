@@ -1,6 +1,6 @@
 {
-  "versionCode": 101,
-  "versionName": "2.9.101",
-  "downloadUrl": "https://raw.githubusercontent.com/linpeiming666-hash/tv-release/main/cloud-tv-native.apk",
-  "changelog": "删除潮汕频道+CCTV-1到CCTV-9直播源更新"
+  "versionCode": 102,
+  "versionName": "2.9.102",
+  "downloadUrl": "https://github.com/linpeiming666-hash/tv-proxy/releases/download/v1.1.1/cloud-tv-native.apk",
+  "changelog": "CCTV-1到CCTV-9直播源更新"
 }
