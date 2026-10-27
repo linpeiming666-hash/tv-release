@@ -1,6 +1,6 @@
 {
   "versionCode": 105,
-  "versionName": "2.9.104",
+  "versionName": "2.9.105",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "删除潮汕频道（原8个频道/44条URL），共14分类/99频道/211源"
+  "changelog": "删除风云音乐、风云足球（含英文重名频道），CCTV-1~9 每频道补齐至 4 个源；共 14 分类/95 频道/221 源"
 }
