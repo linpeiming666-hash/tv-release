@@ -1,6 +1,8 @@
 {
-  "versionCode": 109,
+  "versionCode": 110,
   "versionName": "2.9.109",
-  "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "CCTV-1~9 默认线路更换：删除原线路一（60.220 源），原线路二（74.91 稳定源）升级为线路一，116.228 备用；共 15 分类/98 频道/204 源"
+  "updateMessage": "删除潮汕频道（原8个频道/44条URL），共14分类/99频道/211源",
+  "apkUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
+  "changelog": "自动测试：确认删除 4 个无效频道",
+  "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.0/cloud-tv-native.apk"
 }
