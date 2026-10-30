@@ -1,8 +1,8 @@
 {
-  "versionCode": 110,
+  "versionCode": 111,
   "versionName": "2.9.109",
   "updateMessage": "删除潮汕频道（原8个频道/44条URL），共14分类/99频道/211源",
   "apkUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "自动测试：确认删除 4 个无效频道",
+  "changelog": "自动测试：确认删除 8 个无效频道",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.0/cloud-tv-native.apk"
 }
