@@ -1,6 +1,6 @@
 {
-  "versionCode": 110,
-  "versionName": "2.9.110",
+  "versionCode": 111,
+  "versionName": "2.9.111",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "CCTV-1~17 全面更换线路一为广电 CDN 高清源（1080P 9~10Mbps，无叠加广告），74.91/116.228 降为备用线；共 15 分类/98 频道/203 源"
+  "changelog": "修复更新提醒：APP 每次回到前台都会自动检查更新（此前仅冷启动才检查，导致后台打开收不到更新）；另可点侧栏标题手动检查；CCTV 源同 110 版"
 }
