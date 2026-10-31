@@ -1,6 +1,6 @@
 {
-  "versionCode": 112,
-  "versionName": "2.9.112",
+  "versionCode": 113,
+  "versionName": "2.9.113",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "更新提醒彻底可见：侧栏顶部常驻「检查更新」一栏，显示当前版本与检查结果（已是最新/发现新版本/网络失败），点一下就检查；启动时屏幕底部也显示版本号；回到前台 5 分钟节流自动检查；更新源由 5 个增加到 7 个（新增 gcore.jsdelivr 和 tv-proxy 备用源）"
+  "changelog": "按你的要求删除 CCTV-1~17 每条频道的第一源（原广电 CDN）：CCTV-1~15 现为线路一 74.91、线路二 116.228；CCTV-16 剩 198.204 与 204.12 两线；CCTV-5+ 换成 74.91 与体育源两条（原广电单线已删）；CCTV-17 另补两条官方备份线"
 }
