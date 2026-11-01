@@ -1,6 +1,6 @@
 {
-  "versionCode": 114,
-  "versionName": "2.9.114",
+  "versionCode": 115,
+  "versionName": "2.9.115",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "① 删除天元围棋频道（源已失效）；② CCTV-11 删掉广告过多的第一源，改为 116.228 + 广东电信 1080p 备份；③ 新增「少儿频道」分类：广东少儿(1080p)、卡酷少儿、金鹰卡通、嘉佳卡通；④ 新增 经济科教(1080p)、岭南戏曲(1080p)、大湾区卫视(1080p)；现共 16 分类 / 104 频道 / 195 源"
+  "changelog": "按 15 秒连播实测清理卡顿源：删广东少儿/嘉佳卡通（少儿频道保留卡酷、金鹰）、删经济科教、删大湾区卫视；CCTV-11 换成已验证的 1080p 线路（广州电信）＋116.228 备份；现共 16 分类 / 100 频道 / 191 源"
 }
