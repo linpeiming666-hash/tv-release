@@ -1,6 +1,6 @@
 {
-  "versionCode": 115,
-  "versionName": "2.9.115",
+  "versionCode": 116,
+  "versionName": "2.9.116",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "按 15 秒连播实测清理卡顿源：删广东少儿/嘉佳卡通（少儿频道保留卡酷、金鹰）、删经济科教、删大湾区卫视；CCTV-11 换成已验证的 1080p 线路（广州电信）＋116.228 备份；现共 16 分类 / 100 频道 / 191 源"
+  "changelog": "删除金鹰卡通（少儿频道只保留卡酷少儿）；潮汕频道经实测确认源端上行不足（0.4~0.95Mbps，1080p 需要 2~4.4Mbps），卡顿与手机无关；现共 16 分类 / 99 频道 / 190 源"
 }
