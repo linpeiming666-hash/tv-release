@@ -1,6 +1,8 @@
 {
-  "versionCode": 117,
+  "versionCode": 118,
   "versionName": "2.9.117",
-  "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "删除潮汕频道（公网源实测只能给到码率的1/10，无法流畅播放）；新增 10 个频道：广州综合、广州竞赛、厦门卫视、海峡卫视、兵团卫视、农林卫视、延边卫视、陕西新闻资讯/都市青春/影视；卡酷少儿增加 1080p 高速备用源；现共 16 分类 / 104 频道 / 201 源"
+  "updateMessage": "删除潮汕频道（原8个频道/44条URL），共14分类/99频道/211源",
+  "apkUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
+  "changelog": "自动测试：确认删除 8 个无效频道",
+  "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.0/cloud-tv-native.apk"
 }
