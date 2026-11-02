@@ -1,6 +1,8 @@
 {
-  "versionCode": 119,
+  "versionCode": 120,
   "versionName": "2.9.119",
-  "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "明珠台、翡翠台换成更稳的高速源（原香港中转站时好时坏）；上一版的新频道都在：电影频道 3 个（CHC家庭影院/动作电影/影迷电影）、港澳台 3 个（翡翠台/凤凰香港/明珠台）、卫视 37 个（含新增海南卫视）、农林卫视官方源；现共 16 分类 / 105 频道 / 251 源"
+  "updateMessage": "删除潮汕频道（原8个频道/44条URL），共14分类/99频道/211源",
+  "apkUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
+  "changelog": "自动测试：恢复 2 个频道，确认删除 4 个无效频道",
+  "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.0/cloud-tv-native.apk"
 }
