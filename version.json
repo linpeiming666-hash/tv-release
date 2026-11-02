@@ -1,8 +1,6 @@
 {
   "versionCode": 118,
-  "versionName": "2.9.117",
-  "updateMessage": "删除潮汕频道（原8个频道/44条URL），共14分类/99频道/211源",
-  "apkUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "自动测试：确认删除 8 个无效频道",
-  "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.0/cloud-tv-native.apk"
+  "versionName": "2.9.118",
+  "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
+  "changelog": "CCTV-1~17 与 28 个卫视频道全部切到 8Mbps 高速中继，起播更快、基本不卡；删除卡顿的广州竞赛、兵团卫视；农林卫视换成陕西广电官方高速源；电影频道新增 CHC 影迷电影；新增明珠台(Pearl)、海南卫视；现共 16 分类 / 105 频道 / 249 源"
 }
