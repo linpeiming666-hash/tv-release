@@ -1,6 +1,6 @@
 {
-  "versionCode": 120,
-  "versionName": "2.9.120",
+  "versionCode": 121,
+  "versionName": "2.9.121",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "广东频道新增「汕尾综合」（汕尾台官方源，1080p，实测 20 秒流畅不卡）；潮州/汕头/揭阳三市目前无稳定公开源——汕头官方按天换路径、潮州官方 App 需租户鉴权、广东组播中继被限速到 0.75Mbps，全部实测不可用，故本次未加入；现共 16 分类 / 106 频道 / 252 源"
+  "changelog": "新增「潮汕频道」分类：潮州综合、潮州民生（潮州台官方 RTMP 源，720p）、汕头综合、汕头经济生活（广东 IPTV 组播中继，1080p），4 台均实测 40 秒持续 24fps 流畅、台标核对无误；揭阳综合只放测试卡、揭阳生活与汕头文旅体育暂无可用源，故未加入；现共 17 分类 / 110 频道 / 264 源"
 }
