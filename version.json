@@ -1,6 +1,6 @@
 {
-  "versionCode": 126,
-  "versionName": "2.9.126",
+  "versionCode": 127,
+  "versionName": "2.9.127",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "修复版本号不同步问题：此前自动测试只递增 versionCode、不改 versionName，导致界面显示 2.9.123 却已是最新的假象；本版 versionCode 与 versionName 统一为 2.9.126，以后自动更新会正常提示。频道内容与上一版一致：18 分类 / 129 频道 / 287 源（含日韩频道、港澳台新增台）"
+  "changelog": "频道整理（17 分类 / 121 频道 / 279 源）：清理「海外中文」分类——删除 7 个与其他分类完全重复的频道（CCTV-4 Asia、CCTV-8K HD、怀旧剧场、风云剧场、第一剧场、女性时尚、Jade）和 1 个已失效源（CCTV 卫生健康），其余 8 个按归属并入 央视付费频道（台球/高尔夫网球/兵器科技）、港澳台（美亚电影/亚洲剧场/黄金翡翠）、广西频道（广西综艺旅游）、卫视频道（康巴卫视），空分类移除。原有频道线路顺序保持不变。"
 }
