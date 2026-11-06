@@ -1,6 +1,6 @@
 {
-  "versionCode": 131,
-  "versionName": "2.9.131",
+  "versionCode": 132,
+  "versionName": "2.9.132",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "频道调整（17 分类 / 121 频道 / 280 源）：①删除日韩频道的 Weathernews（天气资讯台）；②保留上一版内容：4K·8K 专区新增实测 2160p 的 河北卫视4K / 湖南卫视4K / 苏州4K，移出普通高清的四川卫视；第一剧场首选线路改为原线路2；汕尾综合归入潮汕频道。"
+  "changelog": "港澳台与音乐频道整理（18 分类 / 119 频道 / 277 源）：①港澳台 10 个频道 16 条线路全部实测，删除拉流过慢无法起播的「TVBS-Asia」「台视新闻」（下载 6 秒内容需 15~40 秒），其余全部正常；②新增「🎵音乐频道」：风云音乐（CCTV 风云音乐 1080p）、Mezzo Live（古典音乐 1080p），均为实测 10 秒 250 帧；③删除日韩频道 NHK World Japan、Weathernews；④删除 4K 专区的苏州4K（画面只有静态「4K修复」占位图）。"
 }
