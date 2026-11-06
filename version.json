@@ -1,8 +1,6 @@
 {
-  "versionCode": 125,
-  "versionName": "2.9.123",
-  "updateMessage": "潮州两台线路优化 + 恢复潮汕 5 个频道；现 17 分类 / 111 频道 / 267 源",
-  "apkUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "自动测试：恢复 1 个频道，确认删除 3 个无效频道",
-  "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk"
+  "versionCode": 124,
+  "versionName": "2.9.124",
+  "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
+  "changelog": "新增日韩频道（NHK World Japan/Premium、KBS World、Arirang TV、TV 朝鲜 1/2、KTV、Gugak TV、Weathernews）与港台频道（无线星河、RTHK 31、KIX、TVBS-Asia、台视新闻、原住民电视）；补充广东民生、广东经济科教、广东少儿、大湾区卫视；移除广告频道 CETV-1；现 18 分类 / 129 频道 / 287 源"
 }
