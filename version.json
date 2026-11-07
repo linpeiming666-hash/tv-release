@@ -1,6 +1,6 @@
 {
-  "versionCode": 137,
-  "versionName": "2.9.137",
+  "versionCode": 138,
+  "versionName": "2.9.138",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "删除动漫频道（20 分类 / 118 频道 / 272 源）：①「🎭 动漫频道」整体下线：Cartoon Network 印度（多次 175 秒以上超时无法起播）、Botflix TV（源端持续报读取出错，10 秒仅 120 帧）、Cartoon Network 巴基斯坦 虽可播但分类仅剩单台，按整类移除；②保留其余 20 个分类，港澳台 7 台、电影频道 6 台、日韩 3 台。"
+  "changelog": "影视分类合并（19 分类 / 118 频道 / 272 源）：①原「🎬 外国电影」与「📺 剧集频道」合并为一个「🎬 影视剧场」分类，包含 4EVER Cinema（1080p）、4EVER Drama（1080p）、TF1 Series Films（1080p）、EBS Cinema（720p），四个台均实测 10 秒 250~300 帧；②延续 137 版：删除整个动漫频道（境外动画源多次超时/仅 120 帧，无法稳定起播）；③港澳台 7 台、电影频道 6 台、日韩 3 台保持实测通过状态。"
 }
