@@ -1,6 +1,6 @@
 {
-  "versionCode": 139,
-  "versionName": "2.9.139",
+  "versionCode": 140,
+  "versionName": "2.9.140",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "分类合并与命名（19 分类 / 118 频道 / 272 源）：①原「🎬 外国电影」与「📺 剧集频道」合并为「外国影视剧场」，含 4EVER Cinema（1080p）、4EVER Drama（1080p）、TF1 Series Films（1080p）、EBS Cinema（720p），均实测 10 秒 250~300 帧；②删除整个动漫频道（境外动画源多次超时、Botflix TV 仅 120 帧，无法稳定起播）；③港澳台 7 台、电影频道 6 台、日韩 3 台保持实测通过。"
+  "changelog": "影视分类整理（19 分类 / 118 频道 / 272 源）：①电影频道改名为「影视剧场」；②「黄金华剧台」「myTV SUPER 剧集」从港澳台移入影视剧场，现影视剧场共 8 台：CHC家庭影院、CHC动作电影、CHC影迷电影、中国电影频道、myTV SUPER 电影、美亚电影台、myTV SUPER 剧集、黄金华剧台；③港澳台保留 5 台：翡翠台、凤凰香港、明珠台、无线星河、原住民电视，全部实测通过；④「外国影视剧场」保持 4 台（4EVER Cinema、4EVER Drama、TF1 Series Films、EBS Cinema）。"
 }
