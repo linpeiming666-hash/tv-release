@@ -1,6 +1,6 @@
 {
-  "versionCode": 133,
-  "versionName": "2.9.133",
+  "versionCode": 134,
+  "versionName": "2.9.134",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "新增动漫/剧集/外国电影三大分类，并修复翡翠台线路（21 分类 / 125 频道 / 279 源）：①修复翡翠台：原线路 1 实为 myTV SUPER 点播流（抓帧为《治愈系恋人》），已删除，真翡翠台 1080p 提到线路 1，另保留 576p 备用线；已删失效线路；②港澳台「亚洲剧场」改名为 myTV SUPER 电影、「黄金翡翠」改名为 myTV SUPER 剧集（按实际画面更正）；③新增「电影频道」中国电影频道（1080p/25fps 实测 250 帧）；④新增「🎭 动漫频道」：Botflix TV、Cartoon Network 印度、Cartoon Network 巴基斯坦；⑤新增「📺 剧集频道」：4EVER Drama、Persiana Korea（韩剧，波斯语字幕）；⑥新增「🎬 外国电影」：4EVER Cinema、TF1 Series Films、EBS Cinema；⑦删除港澳台 TVBS-Asia、台视新闻，日韩 NHK World Japan、Weathernews、康巴卫视、Arirang TV、KBS World 等广告过多或无法起播的频道。"
+  "changelog": "新增「黄金华剧台」（21 分类 / 126 频道 / 280 源）：①剧集频道新增台湾黄金华剧台（1080p / 25fps，实测 10 秒 250 帧，两次抓帧画面不同，非静态占位）；②延续 133 版的翡翠台线路修复、亚洲剧场/黄金翡翠改名为 myTV SUPER 电影/剧集，以及动漫、剧集、外国电影三个新分类。"
 }
