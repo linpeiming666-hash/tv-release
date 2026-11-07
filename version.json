@@ -1,6 +1,6 @@
 {
-  "versionCode": 136,
-  "versionName": "2.9.136",
+  "versionCode": 137,
+  "versionName": "2.9.137",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "港澳台清理（21 分类 / 121 频道 / 275 源）：①删除 RTHK 31（官方直播流当前返回空段，取不到任何画面）；②删除 KIX（实测 212 秒仅出 100 帧，起播过慢无法观看）；③保留翡翠台、凤凰香港、明珠台、无线星河、原住民电视、myTV SUPER 剧集、黄金华剧台，全部实测通过（720p~1080p，10 秒 248~457 帧）；④延续 135 版调整：黄金华剧台入港澳台、myTV SUPER 电影与美亚电影台入电影频道、Persiana Korea 入日韩频道、删除 NHK World Premium / TV Chosun / Gugak TV。"
+  "changelog": "删除动漫频道（20 分类 / 118 频道 / 272 源）：①「🎭 动漫频道」整体下线：Cartoon Network 印度（多次 175 秒以上超时无法起播）、Botflix TV（源端持续报读取出错，10 秒仅 120 帧）、Cartoon Network 巴基斯坦 虽可播但分类仅剩单台，按整类移除；②保留其余 20 个分类，港澳台 7 台、电影频道 6 台、日韩 3 台。"
 }
