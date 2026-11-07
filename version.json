@@ -1,6 +1,6 @@
 {
-  "versionCode": 134,
-  "versionName": "2.9.134",
+  "versionCode": 135,
+  "versionName": "2.9.135",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "新增「黄金华剧台」（21 分类 / 126 频道 / 280 源）：①剧集频道新增台湾黄金华剧台（1080p / 25fps，实测 10 秒 250 帧，两次抓帧画面不同，非静态占位）；②延续 133 版的翡翠台线路修复、亚洲剧场/黄金翡翠改名为 myTV SUPER 电影/剧集，以及动漫、剧集、外国电影三个新分类。"
+  "changelog": "频道归位与清理（21 分类 / 123 频道 / 277 源）：①新增台湾「黄金华剧台」放入港澳台（1080p / 25fps，实测 10 秒 250 帧，非静态）；②「myTV SUPER 电影」「美亚电影台」移入电影频道；③「Persiana Korea」移入日韩频道；④删除日韩频道 NHK World Premium、TV Chosun、Gugak TV；⑤「🎬 外国电影」恢复独立分类，4EVER Cinema / TF1 Series Films / EBS Cinema 复测全部通过（1080p / 250~300 帧）；⑥「📺 剧集频道」保留 4EVER Drama。"
 }
