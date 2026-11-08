@@ -1,6 +1,6 @@
 {
-  "versionCode": 148,
-  "versionName": "2.9.148",
+  "versionCode": 149,
+  "versionName": "2.9.149",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "新增频道（15 分类 / 112 频道 / 260 源）：①「外国影视剧场」新增 TV5MONDE Chefs（1080p，https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8），实测 10 秒 250 帧、抓帧台标核对通过；②外国影视剧场现 5 台：4EVER Cinema、4EVER Drama、TF1 Series Films、EBS Cinema、TV5MONDE Chefs；③延续 147 版：重庆/广西/陕西频道已并入「🌍其他频道」。"
+  "changelog": "删除 2 台（15 分类 / 110 频道 / 258 源）：①下架「TV5MONDE Chefs」（法语美食台，不属于电影频道，属误加）；②下架「myTV SUPER 电影」——源 null-11 已返回 404，面板 null-1~20 全部扫描后确认该台已被移除（存活槽位 1/2/3/4/8/9/10/12 分别为翡翠台、美亚电影台等，无 myTV SUPER 电影）；③影视剧场现 8 台，外国影视剧场回到 4 台。"
 }
