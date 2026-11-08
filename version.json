@@ -1,6 +1,6 @@
 {
-  "versionCode": 147,
-  "versionName": "2.9.147",
+  "versionCode": 148,
+  "versionName": "2.9.148",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "分类合并（15 分类 / 111 频道 / 259 源）：①取消「重庆频道」「广西频道」「陕西频道」三个独立分类，7 个频道全部并入「🌍其他频道」——重庆新闻、广西新闻、广西国际、广西综艺旅游、陕西新闻资讯、陕西都市青春、陕西影视；②「🌍其他频道」现共 9 台（含原新疆2套、新疆3套）；③频道与线路总数不变，影视剧场 9 台、外国影视剧场 4 台。"
+  "changelog": "新增频道（15 分类 / 112 频道 / 260 源）：①「外国影视剧场」新增 TV5MONDE Chefs（1080p，https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8），实测 10 秒 250 帧、抓帧台标核对通过；②外国影视剧场现 5 台：4EVER Cinema、4EVER Drama、TF1 Series Films、EBS Cinema、TV5MONDE Chefs；③延续 147 版：重庆/广西/陕西频道已并入「🌍其他频道」。"
 }
