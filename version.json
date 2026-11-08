@@ -1,6 +1,6 @@
 {
-  "versionCode": 151,
-  "versionName": "2.9.151",
+  "versionCode": 152,
+  "versionName": "2.9.152",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "新增 9 个国外电影台（15 分类 / 120 频道 / 268 源）：「外国影视剧场」由 4 台扩充到 13 台——新增 Blokbaster HD（1080p）、Bolt（1080p）、Amedia Hit（1080p）、AXN Latin America（1080p）、Action 24（1080p）、Afra Film（720p）、Armenia Premium（720p）、24 Hour Free Movies（720p）、Cinemaraton Plus（720p）。全部实测 10 秒 240~300 帧并抓帧确认正在播电影；这些台为外语原声/外语字幕，暂无中文字幕源。"
+  "changelog": "删除 2 台（15 分类 / 118 频道 / 266 源）：①「外国影视剧场」下架 AXN Latin America（内容非纯电影频道）；②「港澳台」下架創世電視（宗教类频道）；③外国影视剧场现 12 台，港澳台回到 5 台（翡翠台、凤凰香港、明珠台、无线星河、原住民电视）。"
 }
