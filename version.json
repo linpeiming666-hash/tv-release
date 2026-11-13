@@ -1,6 +1,6 @@
 {
-  "versionCode": 160,
-  "versionName": "2.9.160",
+  "versionCode": 161,
+  "versionName": "2.9.161",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "移除 潮州综合 / 潮州民生 / 揭阳综合：这三台全网只剩一条 8 Mbps 1080p 转发流，对方网关按 IP 限速，实际拉不到这个带宽，会一直缓冲。宁可不放，也不放个一直转圈的。潮汕频道保留 汕头综合、汕头经济生活、汕尾综合（均为低码率稳定源）。"
+  "changelog": "修复香港转播服务器停机导致的频道失效：中国电影频道改用 CCTV-6 的 1080p 源；黄金华剧台、myTV SUPER 剧集改用 TVB 转播源（均为 1080p）；翡翠台改用广东 IPTV 网关源（标清 720x576）。美亚电影台因全网 12 条源全部失效（域名已注销 / 404）暂时移除。新增「华数电影」到影视剧场：1080p、自带中文字幕。"
 }
