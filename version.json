@@ -1,6 +1,6 @@
 {
-  "versionCode": 164,
-  "versionName": "2.9.164",
+  "versionCode": 165,
+  "versionName": "2.9.165",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "删除实测卡顿的广东少儿、大湾区卫视。翡翠台回退到原来能播的源，去掉两条实测卡顿的新增线路。"
+  "changelog": "删除实测无法播放的频道：无线星河、凤凰香港（源已失效）、广东民生、广东经济科教（1080p 拉流超时）。"
 }
