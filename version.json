@@ -1,6 +1,6 @@
 {
-  "versionCode": 176,
-  "versionName": "2.9.176",
+  "versionCode": 177,
+  "versionName": "2.9.177",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "新建「⭐ 明星专场」分类，新增 周星驰电影（1920x1022，1.86x）、电影周星星（1280x720，1.18x）；删除音量过小的 电影喜剧专场。"
+  "changelog": "删除 3 个喜剧频道：Persiana Comedy、Maxcine Comedy、Comedy Central Brasil。"
 }
