@@ -1,6 +1,6 @@
 {
-  "versionCode": 168,
-  "versionName": "2.9.168",
+  "versionCode": 169,
+  "versionName": "2.9.169",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "外国影视剧场新增 6 个电影台（Rodnoe Kino、FILMBOX+ Love&Crime/Hits/One、Kinoliving、Kino 2）。删除广告较多的 广东体育、广东新闻。"
+  "changelog": "外国影视剧场再新增 16 个台（Sky Cinema 5 个、HBO 3 个、Cinemax 2 个、Warner TV、AMC Europe、SYFY、Film4、Kino Barrandov、Nash Kinopokaz），供实机测试播放效果。"
 }
