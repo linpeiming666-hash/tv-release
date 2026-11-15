@@ -1,6 +1,6 @@
 {
-  "versionCode": 181,
-  "versionName": "2.9.181",
+  "versionCode": 182,
+  "versionName": "2.9.182",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "新开「18禁/成人」分类，加入成人影片频道 18 个。"
+  "changelog": "补入「18禁/成人」低音量成人频道（不按音量剔除），18 个可播源加入。"
 }
