@@ -1,6 +1,6 @@
 {
-  "versionCode": 178,
-  "versionName": "2.9.178",
+  "versionCode": 179,
+  "versionName": "2.9.179",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "「潮汕频道」分类移到最前面，排在央视频道之前，打开即可看到。"
+  "changelog": "删除画面不是凤凰的无信号占位源「凤凰香港台」；新增 11 个实测可播放的国外电影频道（俄语院线、欧洲电影、北欧影院、拉美院线等），均按动态画面 + 音量正常筛选。"
 }
