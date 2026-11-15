@@ -1,6 +1,6 @@
 {
-  "versionCode": 173,
-  "versionName": "2.9.173",
+  "versionCode": 174,
+  "versionName": "2.9.174",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "删除失效频道：浙江教育科技（广告）、广东体育（播放不了）。"
+  "changelog": "删除广告台 SYFY、Kino Barrandov，删除失效台 Nash Kinopokaz HD；「日韩频道」新增 JTBS Classic（日本经典电影台）。"
 }
