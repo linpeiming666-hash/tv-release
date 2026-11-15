@@ -1,6 +1,6 @@
 {
-  "versionCode": 169,
-  "versionName": "2.9.169",
+  "versionCode": 170,
+  "versionName": "2.9.170",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "外国影视剧场再新增 16 个台（Sky Cinema 5 个、HBO 3 个、Cinemax 2 个、Warner TV、AMC Europe、SYFY、Film4、Kino Barrandov、Nash Kinopokaz），供实机测试播放效果。"
+  "changelog": "删除「广东频道」分类，广州综合、广东珠江 移到「🌍其他频道」。"
 }
