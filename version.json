@@ -1,6 +1,6 @@
 {
-  "versionCode": 175,
-  "versionName": "2.9.175",
+  "versionCode": 176,
+  "versionName": "2.9.176",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "新增「凤凰香港台」；「影视剧场」新增 5 个喜剧频道（电影搞笑喜剧、电影喜剧专场、Persiana Comedy、Maxcine Comedy、Comedy Central Brasil）；删除失效的 JTBS Classic。"
+  "changelog": "新建「⭐ 明星专场」分类，新增 周星驰电影（1920x1022，1.86x）、电影周星星（1280x720，1.18x）；删除音量过小的 电影喜剧专场。"
 }
