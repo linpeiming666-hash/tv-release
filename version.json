@@ -1,6 +1,6 @@
 {
-  "versionCode": 170,
-  "versionName": "2.9.170",
+  "versionCode": 171,
+  "versionName": "2.9.171",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "删除「广东频道」分类，广州综合、广东珠江 移到「🌍其他频道」。"
+  "changelog": "恢复 广东体育、广东新闻（原线路不变）并放入「🌍其他频道」。TVB DRAMA 从「经典剧场」移到「港澳台」。"
 }
