@@ -1,6 +1,6 @@
 {
-  "versionCode": 172,
-  "versionName": "2.9.172",
+  "versionCode": 173,
+  "versionName": "2.9.173",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "「💎 4K·8K专区」新增 苏州4K（3840×2160，实测 2.7x）。"
+  "changelog": "删除失效频道：浙江教育科技（广告）、广东体育（播放不了）。"
 }
