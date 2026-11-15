@@ -1,6 +1,6 @@
 {
-  "versionCode": 177,
-  "versionName": "2.9.177",
+  "versionCode": 178,
+  "versionName": "2.9.178",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "删除 3 个喜剧频道：Persiana Comedy、Maxcine Comedy、Comedy Central Brasil。"
+  "changelog": "「潮汕频道」分类移到最前面，排在央视频道之前，打开即可看到。"
 }
