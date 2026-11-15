@@ -1,6 +1,6 @@
 {
-  "versionCode": 174,
-  "versionName": "2.9.174",
+  "versionCode": 175,
+  "versionName": "2.9.175",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "删除广告台 SYFY、Kino Barrandov，删除失效台 Nash Kinopokaz HD；「日韩频道」新增 JTBS Classic（日本经典电影台）。"
+  "changelog": "新增「凤凰香港台」；「影视剧场」新增 5 个喜剧频道（电影搞笑喜剧、电影喜剧专场、Persiana Comedy、Maxcine Comedy、Comedy Central Brasil）；删除失效的 JTBS Classic。"
 }
