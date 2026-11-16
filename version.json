@@ -1,6 +1,6 @@
 {
-  "versionCode": 187,
-  "versionName": "2.9.187",
+  "versionCode": 188,
+  "versionName": "2.9.188",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "补入 MyCamTV Ebony Girls 成人频道（1920x1080 实测可播）。"
+  "changelog": "删除「18禁/成人」分类。"
 }
