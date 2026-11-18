@@ -1,6 +1,6 @@
 {
-  "versionCode": 192,
-  "versionName": "2.9.192",
+  "versionCode": 193,
+  "versionName": "2.9.193",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "删除外国影视剧场卡顿频道（Sky Cinema/HBO/Cinemax/Warner/AMC/Film4/Action 24 等）。"
+  "changelog": "删除全部禁片频道（18禁/成人）。"
 }
