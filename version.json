@@ -1,6 +1,6 @@
 {
-  "versionCode": 193,
-  "versionName": "2.9.193",
+  "versionCode": 194,
+  "versionName": "2.9.194",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "删除全部禁片频道（18禁/成人）。"
+  "changelog": "新增浙江少儿、甘肃少儿、凤凰卫视；新增「付费频道」（CHC家庭影院/影迷电影/动作电影）；清理卡顿源。"
 }
