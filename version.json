@@ -1,6 +1,6 @@
 {
-  "versionCode": 196,
-  "versionName": "2.9.196",
+  "versionCode": 197,
+  "versionName": "2.9.197",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "新增 17 个付费频道：CCTV风云剧场/风云音乐/怀旧剧场/兵器科技/世界地理/电视指南/文化精品，风云足球、央视台球、高尔夫网球、劲爆体育、都市剧场、凤凰资讯等。"
+  "changelog": "优化付费频道：7 个台换用更快源，删除 4 个无法流畅播放的频道（CCTV世界地理、风云足球、劲爆体育、凤凰资讯）。"
 }
