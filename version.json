@@ -1,6 +1,6 @@
 {
-  "versionCode": 197,
-  "versionName": "2.9.197",
+  "versionCode": 198,
+  "versionName": "2.9.198",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "优化付费频道：7 个台换用更快源，删除 4 个无法流畅播放的频道（CCTV世界地理、风云足球、劲爆体育、凤凰资讯）。"
+  "changelog": "新增好莱坞大片/怪兽/动作频道；CCTV卫生健康上线快源。"
 }
