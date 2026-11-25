@@ -1,6 +1,6 @@
 {
-  "versionCode": 199,
-  "versionName": "2.9.199",
+  "versionCode": 200,
+  "versionName": "2.9.200",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "分类调整：少儿频道更名动漫、电影谍战片移动漫、浙江/甘肃少儿移其他、好莱坞动作更名韩国动作片。"
+  "changelog": "新增东方卫视4K；分类调整（少儿/动漫、谍战/动漫、少儿/其他、好莱坞/韩国动作）等。"
 }
