@@ -1,6 +1,6 @@
 {
-  "versionCode": 201,
-  "versionName": "2.9.201",
+  "versionCode": 202,
+  "versionName": "2.9.202",
   "downloadUrl": "https://github.com/linpeiming666-hash/tv-release/releases/download/v1.1.1/cloud-tv-native.apk",
-  "changelog": "改名：电影谍战片→谍战动画，并移入动漫频道。"
+  "changelog": "修复汕头综合/汕头经济生活无画面：改走 HTTP 源并保留 https 双线路；播放失败时显示错误码。"
 }
